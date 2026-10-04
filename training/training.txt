@@ -1,0 +1,6 @@
+>1> priority = 1 means that we assign priority home with the value 1 and hold this value into priority variable.
+    priority == 1 means that we are checking if the value of priority is equal to 1. If it is true, then we can perform some action based on that condition.
+
+>2> 3, 1, 2
+
+>3> you need to call "id" key from the dictionary "items" to access its value.
